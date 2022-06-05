@@ -1,0 +1,16 @@
+name: HelloWorld
+version: 1.0
+author: Newtoniano
+main: me.newtoniano.HelloWorld.Main
+description: Our first minecraft spigot plugin!
+
+commands: 
+  hello:
+    aliases: [hi]
+    description: 
+  hub:
+    aliases: 
+    description: 
+  kill:
+    aliases:
+    description:
